@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /stay/index.html
-title: Stay
+title: Where to Stay
 description: "Where to stay while in town."
 ---
 

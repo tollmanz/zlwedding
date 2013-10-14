@@ -16,8 +16,7 @@ module.exports = function(grunt) {
     recess: {
       dist: {
         options: {
-          compile: true,
-          compress: true
+          compile: true
         },
         files: {
           'assets/css/main.min.css': [

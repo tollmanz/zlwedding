@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /do/index.html
-title: Do
+title: What to Do
 description: "What to do while in town."
 ---
 

@@ -1,32 +1,15 @@
 title:            Finally
-description:      Laura and Zack are getting hitched.
+description:      Laura and Zack are getting married.
 logo:             site-logo.png
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:             # http://your-website.com
+url:              #http://zlwedding.com
 
 # Owner/author information
 owner:
   name:           Zack Tollman
   avatar:         bio-photo.jpg
   email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
@@ -40,16 +23,14 @@ links:
   - title: What to Do
     url: /do
   - title: RSVP
-    url: /rsvp
+    url: https://tollmanz.wufoo.com/forms/wedding-rsvp/
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
 
 kramdown:
   auto_ids: true
