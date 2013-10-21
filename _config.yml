@@ -14,8 +14,12 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: Registry
     url: /registry
+  - title: Wedding Information
+    url: /wedding
   - title: Where to Eat
     url: /eat
   - title: Where to Stay

@@ -1,0 +1,13 @@
+---
+layout: page
+title: Welcome!
+description: "A simple and clean responsive Jekyll theme for words and photos."
+#image:
+#    feature: rings.png
+---
+
+Welcome to Laura and Zack's wedding website. Here you will find all of the information you need for attending our wedding. While you are here, please be sure to:
+
+1. [RSVP](https://tollmanz.wufoo.com/forms/wedding-rsvp/) for the wedding
+1. View our [Honeymoon Registry](/registry)
+1. Learn about places to [stay](/stay), things [to do](/do), and food to [eat](/eat) in Portland

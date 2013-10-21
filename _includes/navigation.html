@@ -14,21 +14,11 @@
 	</nav>
 </div><!-- /.navigation-wrapper -->
 
-{% if site.search %}<div class="search-wrapper">
-	<div class="search-form">
-		<input type="text" class="search-field" placeholder="Search...">
-		<i class="icon-remove-sign icon-2x"></i>
-		<ul class="search-results post-list"></ul><!-- /.search-results -->
-	</div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->{% endif %}
-
 {% if page.image.feature %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
 	<div class="wrap">
 	</div>
 </header><!-- /.masthead -->
 {% else %}<header class="masthead" itemscope itemtype="http://schema.org/Organization">
 	<div class="wrap">
-		<h1 class="site-title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
-		<h2 class="site-description" itemprop="description">{{ site.description }}</h2>
 	</div>
 </header><!-- /.masthead -->{% endif %}
