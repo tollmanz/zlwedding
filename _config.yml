@@ -16,6 +16,9 @@ owner:
 links:
   - title: Home
     url: /
+  - title: RSVP
+    url: https://tollmanz.wufoo.com/forms/wedding-rsvp/
+    external: true
   - title: Registry
     url: /registry
   - title: Wedding Information
@@ -26,9 +29,6 @@ links:
     url: /stay
   - title: What to Do
     url: /do
-  - title: RSVP
-    url: https://tollmanz.wufoo.com/forms/wedding-rsvp/
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
