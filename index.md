@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-headline: Zack and Laura's Wedding
+headline: Laura and Zack's Wedding
 description: "A simple and clean responsive Jekyll theme for words and photos."
 ---
 
