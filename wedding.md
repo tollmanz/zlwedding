@@ -16,6 +16,8 @@ December 6th, 2013: The Wedding
 
 <h2>Location</h2>
 
+The wedding and reception are located at the same venue. The wedding will be in the ground floor and the reception in the grand ballroom on the second floor.
+
 West End Ballroom<br />
 1220 SW Taylor St<br />
 Portland, OR 97205<br />
