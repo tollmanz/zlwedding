@@ -289,7 +289,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'source-sans-pro', sans-serif;
+  font-family: 'source-sans-pro', sans-serif; 
   color: #288D85;
 }
 
@@ -3209,6 +3209,7 @@ span + .entry-title {
 }
 
 .entry-title {
+  font-family: 'Tangerine', cursive;
   font-size: 36px;
   font-size: 2.25rem;
   font-weight: 700;
@@ -3224,8 +3225,8 @@ span + .entry-title {
 @media only screen and (min-width: 48em) {
   .entry-title {
     max-width: 600px;
-    font-size: 52px;
-    font-size: 3.25rem;
+    font-size: 68px;
+    font-size: 6.25rem;
   }
 }
 
@@ -3233,7 +3234,7 @@ span + .entry-title {
   .entry-title {
     max-width: 800px;
     font-size: 68px;
-    font-size: 4.25rem;
+    font-size: 6.25rem;
   }
 }
 
