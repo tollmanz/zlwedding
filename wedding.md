@@ -24,4 +24,12 @@ Portland, OR 97205<br />
 
 <h2>Parking</h2>
 
-Metered street parking is available around the venue. Meters are in effect until 7 PM, after which, street parking is free. We recommend parking in a metered spot and paying until 7 PM when the parking is free.
+There are two inexpensive options for parking available for the event: lot and metered street parking.
+
+*Lot Parking*
+
+The paid parking lot is across the street from the venue and is the closest, most convenient parking option for the event. It costs $2.50 for the evening. The lot is located on SW Taylor St between 12th and 13th.
+
+*Metered Street Parking*
+
+Metered street parking is available around the venue. Meters are in effect until 7 PM, after which, street parking is free. We recommend parking in a metered spot and paying until 7 PM when the parking is free. The total cost of parking will be ~$3.00 depending on when you arrive.
