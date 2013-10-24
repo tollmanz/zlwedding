@@ -2902,7 +2902,7 @@ body {
 .navigation-wrapper ul {
   display: inline-block;
   padding: 4px 20px;
-  margin: 0 0 50px;
+  margin: 0;
   vertical-align: top;
   background-color: #288D85;
   -webkit-border-radius: 0 0 10px 10px;
