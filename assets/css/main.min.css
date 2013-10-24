@@ -275,6 +275,10 @@ a {
           transition: all 0.2s ease;
 }
 
+strong {
+  color: #288D85;
+}
+
 body {
   font-family: 'source-sans-pro', sans-serif;
 }
