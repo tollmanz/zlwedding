@@ -2,7 +2,7 @@
 layout: page
 permalink: /stay/index.html
 title: Where to Stay
-description: 'Where to stay while in town.'
+description: "Where to stay while in town."
 ---
 
 Portland offers a variety of places to stay while in town. We are recommending that guests stay in the downtown area for easy access to the wedding venue and fun things to do in Portland.
